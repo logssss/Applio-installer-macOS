@@ -1,0 +1,12 @@
+{
+    "name": "Applio macOS",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+      "start": "python3 -m venv .venv && source .venv/bin/activate && electron ."
+    },
+    "dependencies": {
+      "electron": "^16.2.8"
+    }
+  }
+  

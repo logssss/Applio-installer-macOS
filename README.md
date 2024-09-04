@@ -1,5 +1,7 @@
-# Applio macOS 1.0.1. 🍏
+# Applio macOS 🍏
+***
 
+[![For-Mac-OS-1.png](https://i.postimg.cc/9FWCZ2wG/For-Mac-OS-1.png)](https://postimg.cc/kDh0Pkc4)
 Funciona con procesadores ARM Y  Con todas las Mac
 
 1-Primer paso dercargar Python  3.10.0 https://www.python.org/downloads/release/python-3100/ ( Stable )
